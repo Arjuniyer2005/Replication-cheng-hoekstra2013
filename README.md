@@ -129,4 +129,4 @@ The notebook generates the following CSV files:
 
 ## AI Disclosure
 
-AI assistance was used in developing, checking, explaining, and documenting portions of the analysis and written report. Detailed documentation and the required transcripts are provided in `ai-appendix.md`.
+AI assistance was used in developing code output. Detailed documentation and the required transcripts are provided in `ai-appendix.md`.
